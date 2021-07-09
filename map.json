@@ -124,7 +124,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"assets\/audio\/505271__diegolar__seagulls-and-seashore-at-the-magellan-fjord.ogg"
+                 "value":"src\/assets\/audio\/505271__diegolar__seagulls-and-seashore-at-the-magellan-fjord.ogg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -536,7 +536,7 @@
         {
          "columns":32,
          "firstgid":1,
-         "image":"assets\/LPC-interiors-1-submissions.png",
+         "image":"src\/assets\/LPC-interiors-1-submissions.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -549,7 +549,7 @@
         {
          "columns":32,
          "firstgid":1025,
-         "image":"assets\/LPC-interiors-2-submissions-transparent.png",
+         "image":"src\/assets\/LPC-interiors-2-submissions-transparent.png",
          "imageheight":832,
          "imagewidth":1024,
          "margin":0,
@@ -562,7 +562,7 @@
         {
          "columns":32,
          "firstgid":1857,
-         "image":"assets\/Terrain and LPc-submissions-Outside.png",
+         "image":"src\/assets\/Terrain and LPc-submissions-Outside.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -836,7 +836,7 @@
         {
          "columns":10,
          "firstgid":2881,
-         "image":"assets\/Font-Pixels.png",
+         "image":"src\/assets\/Font-Pixels.png",
          "imageheight":96,
          "imagewidth":320,
          "margin":0,
@@ -849,7 +849,7 @@
         {
          "columns":6,
          "firstgid":2911,
-         "image":"assets\/watileset.png",
+         "image":"src\/assets\/watileset.png",
          "imageheight":512,
          "imagewidth":192,
          "margin":0,
@@ -872,7 +872,7 @@
         {
          "columns":32,
          "firstgid":3007,
-         "image":"assets\/LPC-conifers.png",
+         "image":"src\/assets\/LPC-conifers.png",
          "imageheight":512,
          "imagewidth":1024,
          "margin":0,
@@ -959,7 +959,7 @@
         {
          "columns":32,
          "firstgid":3519,
-         "image":"assets\/LPC-objects-plants-fish-submissions-outside.png",
+         "image":"src\/assets\/LPC-objects-plants-fish-submissions-outside.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -972,7 +972,7 @@
         {
          "columns":3,
          "firstgid":4543,
-         "image":"assets\/signs.png",
+         "image":"src\/assets\/signs.png",
          "imageheight":160,
          "imagewidth":96,
          "margin":0,
