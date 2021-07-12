@@ -583,12 +583,12 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Level Design: Jako https:\/\/mapwa.net\/static\/ \n https:\/\/opengameart.org\/content\/lpc-collection"
+         "value":"Mapping: Jako https:\/\/mapwa.net\/static\/ \nTilesets: https:\/\/opengameart.org\/content\/lpc-collection"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Island bay with boat"
+         "value":"Your have parked your ship along a bay in Iceland to collect a bit of all your epic adventures. Enjoy a peaceful place to tell stories by the fireside."
         }, 
         {
          "name":"mapImage",
@@ -598,12 +598,12 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/mapwa.net\/static\/"
+         "value":"https:\/\/valdotr.github.io\/island-meetup\/map.json"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Island"
+         "value":"Iceland"
         }, 
         {
          "name":"script",
