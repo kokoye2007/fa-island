@@ -583,12 +583,12 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Mapping: Jako https:\/\/mapwa.net\/static\/ \nTilesets: https:\/\/opengameart.org\/content\/lpc-collection"
+         "value":"Credits: Jako https:\/\/mapwa.net\/static\/ \nLicence: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Your have parked your ship along a bay in Iceland to collect a bit of all your epic adventures. Enjoy a peaceful place to tell stories by the fireside."
+         "value":"Suitable up to 100 users.\n\nHave you ever dreamed of spending some time on a deserted island? That would not probably be as fun as if your friends would join you there right? With this map you will be able to have the best of both worlds\nYour have parked your ship along a bay in Iceland to recover a bit of all your epic adventures. Enjoy a peaceful place to tell stories by the fireside!"
         }, 
         {
          "name":"mapImage",
@@ -611,7 +611,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.0",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
