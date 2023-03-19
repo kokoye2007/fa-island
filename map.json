@@ -201,7 +201,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/varcamp\/2022\/corner#north"
+                 "value":"\/@\/varcamp\/2022\/corner\/#north"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -343,7 +343,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/varcamp\/2022\/#entry-ship"
+                 "value":"https:\/\/play.var.camp\/"
                 }],
          "type":"tilelayer",
          "visible":true,
